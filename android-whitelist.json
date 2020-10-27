@@ -827,7 +827,7 @@
     {
       "group": "com\\.mercadopago\\.android\\.checkoutpx",
       "name": "checkoutpx",
-      "version": "4\\.\\+"
+      "version": "4\\.61\\.0"
     },
     {
       "group": "com\\.mercadopago\\.android\\.commons",
