@@ -453,7 +453,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.biometrics",
       "name": "sdk",
-      "version": "3\\.\\+"
+      "version": "4\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.bookmarks",
